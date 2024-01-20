@@ -1,0 +1,25 @@
+.menu {
+    display: flex;
+}
+.menu-title {
+    
+    
+    margin-bottom: 20px;
+    color: #000;
+    font-family: 'Tinos', serif;
+    font-size: 20px;
+    font-weight:400;
+}
+.menu-title span {
+    color: #BC9060;
+    
+}
+.menu-desc {
+    
+    color: #fff;
+    font-family: 'Tinos', serif;
+    font-size: 18px;
+    font-weight:400;
+    padding-top: 35px;
+    
+}
